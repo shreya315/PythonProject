@@ -1,2 +1,2 @@
-import sys
-print(sys.version)
+print("Hello world")
+print("I hope it works..")
